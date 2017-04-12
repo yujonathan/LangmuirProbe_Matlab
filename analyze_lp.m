@@ -48,7 +48,7 @@ function [pAns,pFit,rFit]=analyze_lp(savedAns,savedFit,rFit)
 Element = 'He';
 
 % default values for prompt
-rfpower  =    '1300';       % [W]
+rfpower  =    '1500';       % [W]
 magnet   =      '50';       % [A]
 flow     =      '10';       % [sccm]
 pressure =     '6.3';       % [mT]
